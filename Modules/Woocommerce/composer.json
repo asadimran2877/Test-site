@@ -1,0 +1,23 @@
+{
+    "name": "noropay/woocommerce",
+    "description": "",
+    "authors": [
+        {
+            "name": "Norob BV",
+            "email": "support@noropay.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Woocommerce\\": ""
+        }
+    }
+}

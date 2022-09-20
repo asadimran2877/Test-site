@@ -1,0 +1,28 @@
+{
+    "name": "noropay/agent",
+    "type": "laravel-module",
+    "description": "",
+    "authors": [
+        {
+            "name": "Norob BV",
+            "email": "support@noropay.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Agent\\": ""
+        }
+    },
+    "require": {
+        "nwidart/laravel-modules": "^8.2",
+        "joshbrw/laravel-module-installer": "^2.0"
+    }
+}

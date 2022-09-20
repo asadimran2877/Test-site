@@ -1,0 +1,16 @@
+{
+    "name": "Agent",
+    "alias": "agent",
+    "description": "Noropay provides a great feature of multiple agents to spread a business over the world. Agents can create a user, do a transaction for the user and so on.",
+    "version": "3.3",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Agent\\Providers\\AgentServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "Entities/helper.php"
+    ],
+    "requires": []
+}

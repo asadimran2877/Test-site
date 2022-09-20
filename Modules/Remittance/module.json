@@ -1,0 +1,14 @@
+{
+    "name": "Remittance",
+    "alias": "remittance",
+    "description": "Noropay Money Transfer remittance, Send and Receive Money Super Fast And Secure To Your Loved Ones",
+    "version": "3.3",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Remittance\\Providers\\RemittanceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

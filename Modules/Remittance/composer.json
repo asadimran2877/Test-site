@@ -1,0 +1,23 @@
+{
+    "name": "Noropay/remittance",
+    "description": "Noropay Money Transfer remittance",
+    "authors": [
+        {
+            "name": "McHenrie Orji",
+            "email": "info.norobind@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Remittance\\": ""
+        }
+    }
+}

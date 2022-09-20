@@ -1,0 +1,56 @@
+body {
+    font-family: "DeJaVu Sans", Helvetica, sans-serif;
+    color: #121212;
+    line-height: 15px;
+}
+
+table,
+tr,
+td {
+    padding: 6px 6px;
+    border: 1px solid black;
+}
+tr {
+    height: 40px;
+}
+.agent-heading-title {
+    width:100%; 
+    margin:0px auto;
+}
+.agent-div-3 {
+    width:80%; 
+    float:left; 
+    font-size:13px; 
+    color:#383838; 
+    font-weight:400;
+}
+.agent-height-80 {
+    height:80px;
+}
+.agent-revenue-logo {
+    width:20%; 
+    float:left; 
+    font-size:15px; 
+    color:#383838; 
+    font-weight:400;
+}
+.agent-mt-30 {
+    margin-top:30px;
+}
+.agent-tbl-head {
+    width:100%; 
+    border-radius:1px; 
+    border-collapse: collapse;
+}
+.agent-tbl-tr {
+    background-color:#f0f0f0; 
+    text-align:center; 
+    font-size:12px; 
+    font-weight:bold;
+}
+.agent-tbl-tr-val {
+    background-color:#fff; 
+    text-align:center; 
+    font-size:12px; 
+    font-weight:normal;
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Woocommerce",
+    "alias": "woocommerce",
+    "description": "Noropay for woo-commerce online payment. This woo-commerce payment gateway makes it easy for user to use thier wallet for payment and transaction.",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Woocommerce\\Providers\\WoocommerceServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": [],
+    "version": "3.3"
+}
